@@ -18,3 +18,6 @@ Description: The purpose of this application is to show score board
 6. File writting in case of failure
 7. cache store (used Dictionary to make the operations fast)
 8. API endpoints to update scores for old consoles.
+
+
+For more information, please contact at Dheeraj.Bansal14@gmail.com
